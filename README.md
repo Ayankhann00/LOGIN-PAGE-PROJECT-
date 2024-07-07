@@ -22,7 +22,7 @@ This project showcases a sleek and modern login page designed with HTML and CSS.
     ```sh
     cd login-page-project
     ```
-3. Open the `index.html` file in your preferred web browser to view the login page.
+3. Open the `codee.html` file in your preferred web browser to view the login page.
 4. ## Project Structure
 login-page-project/
 ├── CODEE.HTML
