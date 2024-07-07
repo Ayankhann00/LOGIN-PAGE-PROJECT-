@@ -43,7 +43,7 @@ login-page-project/
     - Additional styling is applied to the checkbox, buttons, and links for a cohesive design.
 
 ## Screenshots
-![Login Page Screenshot](screenshot.png)
+![Login Page Screenshot](Screenshot 2024-07-07 at 6.17.01 PM.PNG)
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for more information.
